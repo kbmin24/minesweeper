@@ -6,4 +6,6 @@ Simple console minesweeper written in VB.NET. Nothing more.
 
 ## Features
  * a working minesweeper
- * custom board size & # of mines (it's even possible to create a board full of mines!)
+ * custom board size & # of mines
+
+You should run this program from a shell like cmd or powershell, because this program will immediate close if you lose.
