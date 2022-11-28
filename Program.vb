@@ -51,7 +51,7 @@ Module Program
             Console.WriteLine()
         Next
         Console.WriteLine()
-        Console.WriteLine("WASD, arrow keys = move | Space = Remove mine | x, m = Mark mine")
+        Console.WriteLine("WASD, arrow keys = move | Space = Reveal | x, m = Mark mine")
     End Sub
     Sub initialiseMinefield()
         Dim i As Integer = 0
